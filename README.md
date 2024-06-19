@@ -1,5 +1,5 @@
 # A brief introduction to Julia
-This repository contains the slides and the code I used for my presentation of Julia at the AstroCalcul seminar at the Observatoire de Paris, in 2024.
+This repository contains the [slides](https://github.com/Alseidon/brief_julia_talk/blob/main/diapo/diapo.pdf) and the [code](https://github.com/Alseidon/brief_julia_talk/tree/main/code) I used for my presentation of Julia at the AstroCalcul seminar at the Observatoire de Paris, in 2024.
 
 Inspirations:
 - https://viralinstruction.com/posts/goodjulia/ and its mirror post https://viralinstruction.com/posts/badjulia/
